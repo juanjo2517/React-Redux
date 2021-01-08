@@ -1,16 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Jugo de Zanahoria",
-      "price": "31111"
-    },
-    {
-      "id": 2,
-      "name": "Jugo de Manzana",
-      "price": "1"
-    },
-    {
       "name": "Jugo de Naranja",
       "price": "300",
       "id": 3
@@ -24,6 +14,36 @@
       "name": "Jugo de Fresa",
       "price": "200",
       "id": 5
+    },
+    {
+      "name": "Jugo de Mango/Cereza",
+      "price": 2500,
+      "id": 9
+    },
+    {
+      "name": "Papas con queso",
+      "price": 2500,
+      "id": 10
+    },
+    {
+      "name": "Jugo de Mora",
+      "price": 2500,
+      "id": 11
+    },
+    {
+      "name": "Empanadas con Carne",
+      "price": 1200,
+      "id": 12
+    },
+    {
+      "name": "Empanadas con Pollo",
+      "price": 1200,
+      "id": 13
+    },
+    {
+      "name": "Arepa con Carne ",
+      "price": 3000,
+      "id": 14
     }
   ]
 }
